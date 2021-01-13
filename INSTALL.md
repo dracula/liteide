@@ -12,29 +12,28 @@ Download using the [GitHub .zip download](https://github.com/SpikedPaladin/litei
 
 #### Activating theme
 
-##### Linux
-1. Open a terminal and execute the following
-    1. ```$ cd dracula```
-    2. ```$ ./install.sh```
+**Linux**
+
+1. Open a terminal and execute the following: `cd dracula && ./install.sh`
 2. Open LiteIDE
-3. Click **View** -> **Options**
-4. On the **LiteEditor** item -> **Fonts & Colors** tab, change the **File** under **Editor Color Scheme** to: *dracula.xml*.
+3. Click `View -> Options`
+4. On the *LiteEditor* item, choose `Fonts & Colors` tab, change the `File` under `Editor Color Scheme` to: `dracula.xml`.
 5. Click OK.
 
-##### Windows
+**Windows**
 
-1. Copy **dracula.xml** to the **liteide\share\liteide\liteeditor\color** folder.
+1. Copy `dracula.xml` to the `liteide\share\liteide\liteeditor\color` folder.
 2. Open LiteIDE
-3. Click **View** -> **Options**
-4. On the **LiteEditor** item -> **Fonts & Colors** tab, change the **File** under **Editor Color Scheme** to: *dracula.xml*.
+3. Click `View -> Options`
+4. On the *LiteEditor* item, choose `Fonts & Colors` tab, change the `File` under `Editor Color Scheme` to: `dracula.xml`.
 5. Click OK.
 
-##### OS X
+**OS X**
 
 1. Navigate to the LiteIDE.app.
 2. Right-click -> Show package contents.
-3. Copy **dracula.xml** to the **LiteIDE.app/Contents/Resources/liteeditor/color/** folder.
+3. Copy `dracula.xml` to the `LiteIDE.app/Contents/Resources/liteeditor/color/` folder.
 4. Open LiteIDE
-5. Click **LiteIDE** -> **Preferences...**.
-6. On the **LiteEditor** item -> **Fonts & Colors** tab, change the **File** under **Editor Color Scheme** to: *dracula.xml*.
+5. Click `LiteIDE -> Preferences...`.
+4. On the *LiteEditor* item, choose `Fonts & Colors` tab, change the `File` under `Editor Color Scheme` to: `dracula.xml`.
 7. Click OK.
